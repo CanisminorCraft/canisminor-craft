@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "snowy=false": [
+            { "model": "grass_normal", "weight": 40 },
+            { "model": "grass_normal", "y": 180, "weight": 40 },
+            { "model": "dirt/grass_top_1", "y": 180, "weight": 40 },
+            { "model": "dirt/grass_top_2", "weight": 40 },
+            { "model": "dirt/grass_top_2", "y": 180, "weight": 40 },
+            { "model": "dirt/grass_top_3", "weight": 40 },
+            { "model": "dirt/grass_top_3", "y": 180, "weight": 40 },
+            { "model": "dirt/grass_top_4", "weight": 40 },
+            { "model": "dirt/grass_top_4", "y": 180, "weight": 40 },
+            { "model": "dirt/grass_top_5", "weight": 40 },
+            { "model": "dirt/grass_top_5", "y": 180, "weight": 40 },
+            { "model": "dirt/grass_top_6", "weight": 40 },
+            { "model": "dirt/grass_top_6", "y": 180, "weight": 40 }
+        ],
+        "snowy=true":  { "model": "grass_snowed" }
+    }
+}
