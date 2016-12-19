@@ -6,7 +6,6 @@
 
 [canisminor.cc](http://canisminor.cc)
 
-<br>
 
 ## 截图
 
@@ -98,6 +97,8 @@ $ git reset --hard ; git pull
 <br>
 
 ## Copyright
+
+- **Website:** [canisminor.cc](http://canisminor.cc)
 
 - **Author:** [Canis Minor](http://canisminor.cc)
 
