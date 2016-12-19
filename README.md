@@ -31,6 +31,7 @@ https://pan.baidu.com/s/1skKHstB
 - 新建文件夹,并右键 *SVN Checkout*
 - URL处填写:
 
+
 ```bash
 svn+ssh://svn@svn.coding.net/canisminor1990/cmc-client/trunk
 # 等待下载结束,使用`cmc-launcher.jar`启动
