@@ -35,7 +35,7 @@ To enable shader-pack you need `Canisminor Craft` Client version:
 
 - [Website](http://canisminor.cc)
 
-## Licence
+## License
 
 Canisminor Craft is a personnal mixed and modifide res-pack
 
