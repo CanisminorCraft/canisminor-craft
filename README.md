@@ -35,7 +35,7 @@ To enable shader-pack you need `Canisminor Craft` Client version:
 
 - [Website](http://canisminor.cc)
 
-## Thanks to
+## Licence
 
 Canisminor Craft is a personnal mixed and modifide res-pack
 
@@ -45,12 +45,6 @@ Three-part textures from:
 - Jolicraft
 - Mini-Dokucraft
 - Grendens Meringued Cartoon
-
-
-## Licence
-
-- MIT Licence
-
 
 ## Copyright
 
