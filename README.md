@@ -2,12 +2,12 @@
 
 ![](https://o4j4l4n7h.qnssl.com/20161215-22116-bg.png)
 
-## 官网
+## Website
 
 [canisminor.cc](http://canisminor.cc)
 
 
-## 截图
+## Screenshot
 
 ![](https://o4j4l4n7h.qnssl.com/20161219-223051-9.png)
 
@@ -29,15 +29,17 @@
 
 
 
-## 光影版需整合包支持
+## Shader Pack
 
-- [查看光影版](http://canisminor.cc)
+To enable shader-pack you need `Canisminor Craft` Client version:
+
+- [Website](http://canisminor.cc)
 
 ## Thanks to
 
-Canisminor Craft is a Mixed and Modifide Res-pack
+Canisminor Craft is a personnal mixed and modifide res-pack
 
-Three-Part textures from:
+Three-part textures from:
 
 - Greatwood
 - Jolicraft
