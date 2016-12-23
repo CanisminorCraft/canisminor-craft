@@ -33,11 +33,22 @@
 
 - [查看光影版](http://canisminor.cc)
 
+## Thanks to
+
+Canisminor Craft is a Mixed and Modifide Res-pack
+
+Three-Part textures from:
+
+- Greatwood
+- Jolicraft
+- Mini-Dokucraft
+- Grendens Meringued Cartoon
+
+
 ## Licence
 
 - MIT Licence
 
-<br>
 
 ## Copyright
 
