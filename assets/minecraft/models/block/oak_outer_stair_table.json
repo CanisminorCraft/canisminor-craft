@@ -1,0 +1,32 @@
+{
+"textures": {
+    "particle": "blocks/planks_oak",
+    "texture": "blocks/planks_oak"
+},
+"elements": [
+{
+    "from": [ 0, 0, 0 ],
+    "to": [ 16, 2, 16 ],
+    "faces": {
+        "down":  { "uv": [ 16, 16, 0, 0 ], "texture": "#texture" },
+        "up":    { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },
+        "north": { "uv": [ 0, 14, 16, 16 ], "texture": "#texture" },
+        "south": { "uv": [ 0, 14, 16, 16 ], "texture": "#texture" },
+        "west":  { "uv": [ 0, 14, 16, 16 ], "texture": "#texture" },
+        "east":  { "uv": [ 0, 14, 16, 16 ], "texture": "#texture" }
+    }
+},
+{
+    "from": [ 0, 2, 14 ],
+    "to": [ 2, 16, 16 ],
+    "faces": {
+        "down":  { "uv": [ 15, 15, 13, 13 ], "texture": "#texture" },
+        "up":    { "uv": [ 1, 13, 3, 15 ], "texture": "#texture" },
+        "north": { "uv": [ 13, 0, 15, 14 ], "texture": "#texture" },
+        "south": { "uv": [ 1, 0, 3, 14 ], "texture": "#texture" },
+        "west":  { "uv": [ 13, 0, 15, 14 ], "texture": "#texture" },
+        "east":  { "uv": [ 1, 0, 3, 14 ], "texture": "#texture" }
+    }
+}
+]
+}
