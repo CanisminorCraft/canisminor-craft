@@ -2,11 +2,6 @@
 
 ![](https://o4j4l4n7h.qnssl.com/20161215-22116-bg.png)
 
-## Website
-
-[canisminor.cc](http://canisminor.cc)
-
-
 ## Screenshot
 
 ![](https://o4j4l4n7h.qnssl.com/20161219-223051-9.png)
@@ -33,7 +28,7 @@
 
 To enable shader-pack you need `Canisminor Craft` Client version:
 
-- [Website](http://mc.canisminor.cc)
+- [canisminor-craft-client](https://github.com/CanisminorCraft/canisminor-craft-client)
 
 ## License
 
@@ -46,8 +41,6 @@ Three-part textures from:
 - Mini-Dokucraft
 - Grendens Meringued Cartoon
 
-## Copyright
+## Link
 
-- **Website:** [mc.canisminor.cc](http://mc.canisminor.cc)
-
-- **Author:** [CanisMinor](https://canisminor.cc)
+- **Website:** [mcbbs](http://www.mcbbs.net/thread-126111-1-2.html)
