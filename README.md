@@ -48,8 +48,6 @@ Three-part textures from:
 
 ## Copyright
 
-- **Website:** [canisminor.cc](http://canisminor.cc)
+- **Website:** [mc.canisminor.cc](http://mc.canisminor.cc)
 
-- **Author:** [Canis Minor](http://canisminor.cc)
-
-- **Email:** [Canismonor1990@gmail.com](Canismonor1990@gmail.com)
+- **Author:** [CanisMinor](https://canisminor.cc)
