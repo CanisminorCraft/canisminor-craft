@@ -33,7 +33,7 @@
 
 To enable shader-pack you need `Canisminor Craft` Client version:
 
-- [Website](http://canisminor.cc)
+- [Website](http://mc.canisminor.cc)
 
 ## License
 
